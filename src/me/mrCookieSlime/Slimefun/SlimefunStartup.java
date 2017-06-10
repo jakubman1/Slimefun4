@@ -121,7 +121,7 @@ public class SlimefunStartup extends JavaPlugin {
 				System.err.println("###");
 				System.err.println("### You are using Minecraft " + ReflectionUtils.getVersion());
 				System.err.println("### but Slimefun v" + getDescription().getVersion() + " requires you to be using");
-				System.err.println("### Minecraft 1.9.X or 1.10.X");
+				System.err.println("### Minecraft 1.9.X, 1.10.X or 1.11.X");
 				System.err.println("###");
 				System.err.println("### Please use an older Version of Slimefun and disable auto-updating");
 				System.err.println("### or consider updating your Server Software.");
